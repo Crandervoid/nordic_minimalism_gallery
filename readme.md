@@ -90,3 +90,17 @@ Transform a Swiss-style website into any of 15 design styles:
 ---
 
 **Ready?** → **[docs/START-HERE.md](docs/START-HERE.md)**
+
+## Student Project – Nordic Minimalism Gallery
+
+- Style: Nordic Minimalism (Intermediate)
+- Course: IS 218 – Building Web Applications
+- Time Spent: ~X hours
+- Key Decisions:
+  - Warm off-white base (#FAFAF9), charcoal text (#4A4A4A)
+  - Single-column layout with max-width 720px
+  - 18px body text with generous line-height for readability
+  - Component-based cards for timeline and designer profiles
+- Technical:
+  - Fully responsive (desktop, tablet, mobile)
+  - Lighthouse scores: Perf X, Acc X, Best Practices X, SEO X
